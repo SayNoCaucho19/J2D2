@@ -1,0 +1,66 @@
+[0.401s] Invoking command in '/home/jean/Microporyecto_ws/src/camara_pkg': PYTHONPATH=/home/jean/Microporyecto_ws/src/build/camara_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/camara_pkg build --build-base /home/jean/Microporyecto_ws/src/build/camara_pkg/build install --record /home/jean/Microporyecto_ws/src/build/camara_pkg/install.log --single-version-externally-managed install_data
+[0.553s] running egg_info
+[0.553s] creating ../build/camara_pkg/camara_pkg.egg-info
+[0.553s] writing ../build/camara_pkg/camara_pkg.egg-info/PKG-INFO
+[0.553s] writing dependency_links to ../build/camara_pkg/camara_pkg.egg-info/dependency_links.txt
+[0.553s] writing entry points to ../build/camara_pkg/camara_pkg.egg-info/entry_points.txt
+[0.554s] writing requirements to ../build/camara_pkg/camara_pkg.egg-info/requires.txt
+[0.554s] writing top-level names to ../build/camara_pkg/camara_pkg.egg-info/top_level.txt
+[0.554s] writing manifest file '../build/camara_pkg/camara_pkg.egg-info/SOURCES.txt'
+[0.555s] reading manifest file '../build/camara_pkg/camara_pkg.egg-info/SOURCES.txt'
+[0.555s] writing manifest file '../build/camara_pkg/camara_pkg.egg-info/SOURCES.txt'
+[0.555s] running build
+[0.555s] running build_py
+[0.555s] creating /home/jean/Microporyecto_ws/src/build/camara_pkg/build
+[0.555s] creating /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib
+[0.555s] creating /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg
+[0.555s] copying camara_pkg/guidos.py -> /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg
+[0.555s] copying camara_pkg/camera_gui_node.py -> /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg
+[0.555s] copying camara_pkg/movemotors.py -> /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg
+[0.555s] copying camara_pkg/camara_node.py -> /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg
+[0.556s] copying camara_pkg/__init__.py -> /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg
+[0.556s] copying camara_pkg/teleop.py -> /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg
+[0.556s] running install
+[0.556s] running install_lib
+[0.556s] creating /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg
+[0.556s] copying /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg/guidos.py -> /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg
+[0.556s] copying /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg/camera_gui_node.py -> /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg
+[0.556s] copying /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg/movemotors.py -> /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg
+[0.556s] copying /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg/camara_node.py -> /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg
+[0.556s] copying /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg/__init__.py -> /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg
+[0.556s] copying /home/jean/Microporyecto_ws/src/build/camara_pkg/build/lib/camara_pkg/teleop.py -> /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg
+[0.557s] byte-compiling /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg/guidos.py to guidos.cpython-310.pyc
+[0.559s] byte-compiling /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg/camera_gui_node.py to camera_gui_node.cpython-310.pyc
+[0.559s] byte-compiling /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg/movemotors.py to movemotors.cpython-310.pyc
+[0.560s] byte-compiling /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg/camara_node.py to camara_node.cpython-310.pyc
+[0.560s] byte-compiling /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg/__init__.py to __init__.cpython-310.pyc
+[0.560s] byte-compiling /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg/teleop.py to teleop.cpython-310.pyc
+[0.561s] running install_data
+[0.561s] creating /home/jean/Microporyecto_ws/src/install/camara_pkg/share/ament_index
+[0.561s] creating /home/jean/Microporyecto_ws/src/install/camara_pkg/share/ament_index/resource_index
+[0.561s] creating /home/jean/Microporyecto_ws/src/install/camara_pkg/share/ament_index/resource_index/packages
+[0.561s] copying resource/camara_pkg -> /home/jean/Microporyecto_ws/src/install/camara_pkg/share/ament_index/resource_index/packages
+[0.561s] copying package.xml -> /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg
+[0.561s] creating /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/launch
+[0.561s] copying launch/micro.launch.py -> /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/launch
+[0.561s] copying launch/display.launch -> /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/launch
+[0.562s] copying launch/gazebo.launch -> /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/launch
+[0.562s] creating /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/urdf
+[0.562s] copying urdf/turtlesimm.urdf -> /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/urdf
+[0.562s] creating /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/meshes
+[0.562s] copying meshes/base_link.STL -> /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/meshes
+[0.564s] copying meshes/Motorizq_Link.STL -> /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/meshes
+[0.565s] copying meshes/Motorder_Link.STL -> /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/meshes
+[0.565s] creating /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/config
+[0.565s] copying config/joint_names_turtlesimm.yaml -> /home/jean/Microporyecto_ws/src/install/camara_pkg/share/camara_pkg/config
+[0.565s] running install_egg_info
+[0.566s] Copying ../build/camara_pkg/camara_pkg.egg-info to /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages/camara_pkg-0.0.0-py3.10.egg-info
+[0.567s] running install_scripts
+[0.580s] Installing camara_node script to /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[0.580s] Installing camera_gui_node script to /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[0.580s] Installing guidos script to /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[0.580s] Installing movemotors script to /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[0.580s] Installing salvatore_mqtt_bridge script to /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[0.580s] Installing teleop script to /home/jean/Microporyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[0.580s] writing list of installed files to '/home/jean/Microporyecto_ws/src/build/camara_pkg/install.log'
+[0.596s] Invoked command in '/home/jean/Microporyecto_ws/src/camara_pkg' returned '0': PYTHONPATH=/home/jean/Microporyecto_ws/src/build/camara_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jean/Microporyecto_ws/src/install/camara_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/camara_pkg build --build-base /home/jean/Microporyecto_ws/src/build/camara_pkg/build install --record /home/jean/Microporyecto_ws/src/build/camara_pkg/install.log --single-version-externally-managed install_data
