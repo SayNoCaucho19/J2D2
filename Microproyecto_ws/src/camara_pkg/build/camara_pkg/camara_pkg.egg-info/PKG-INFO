@@ -1,12 +1,7 @@
 Metadata-Version: 2.1
 Name: camara-pkg
-Version: 0.0.0
-Summary: Paquete de cámara para robot acuático
-Home-page: UNKNOWN
+Version: 1.0.0
+Summary: Paquete ROS2 que incluye cámara, GUI, teleop y monitor de voltaje.
 Maintainer: camilo
 Maintainer-email: tu_correo@example.com
 License: MIT
-Platform: UNKNOWN
-
-UNKNOWN
-

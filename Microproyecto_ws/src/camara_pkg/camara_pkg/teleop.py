@@ -13,11 +13,11 @@ class JoystickToSerial(Node):
         super().__init__('joystick_to_serial')
         
         # Parámetros configurables
-        self.declare_parameter('mqtt_broker', 'test.mosquitto.org')
+        self.declare_parameter('mqtt_broker', 'localhost')
         self.declare_parameter('mqtt_port', 1883)
         self.declare_parameter('mqtt_topic', 'aquabot/motors')
         self.declare_parameter('mqtt_status_topic', 'aquabot/status')
-        self.declare_parameter('max_speed', 1.0)
+        self.declare_parameter('max_speed', 1)
         self.declare_parameter('deadzone', 0.1)
         self.declare_parameter('min_ratio', 0.3)
 
