@@ -1,0 +1,8 @@
+[console_scripts]
+camara_node = camara_pkg.camara_node:main
+camera_gui_node = camara_pkg.camera_gui_node:main
+guidos = camara_pkg.guidos:main
+movemotors = camara_pkg.movemotors:main
+mqtt_bridge_node = camara_pkg.mqtt_bridge_node:main
+salvatore_mqtt_bridge = camara_pkg.salvatore_mqtt_bridge:main
+teleop = camara_pkg.teleop:main

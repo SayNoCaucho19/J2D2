@@ -1,0 +1,66 @@
+[0.499s] Invoking command in '/home/camilo/J2D2/Microproyecto_ws/src/camara_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camara_pkg build --build-base /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build install --record /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/install.log --single-version-externally-managed install_data
+[0.662s] running egg_info
+[0.663s] creating ../../build/camara_pkg/camara_pkg.egg-info
+[0.674s] writing ../../build/camara_pkg/camara_pkg.egg-info/PKG-INFO
+[0.674s] writing dependency_links to ../../build/camara_pkg/camara_pkg.egg-info/dependency_links.txt
+[0.674s] writing entry points to ../../build/camara_pkg/camara_pkg.egg-info/entry_points.txt
+[0.674s] writing requirements to ../../build/camara_pkg/camara_pkg.egg-info/requires.txt
+[0.674s] writing top-level names to ../../build/camara_pkg/camara_pkg.egg-info/top_level.txt
+[0.674s] writing manifest file '../../build/camara_pkg/camara_pkg.egg-info/SOURCES.txt'
+[0.696s] reading manifest file '../../build/camara_pkg/camara_pkg.egg-info/SOURCES.txt'
+[0.697s] writing manifest file '../../build/camara_pkg/camara_pkg.egg-info/SOURCES.txt'
+[0.697s] running build
+[0.697s] running build_py
+[0.697s] creating /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build
+[0.697s] creating /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib
+[0.697s] creating /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg
+[0.697s] copying camara_pkg/movemotors.py -> /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg
+[0.697s] copying camara_pkg/guidos.py -> /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg
+[0.697s] copying camara_pkg/teleop.py -> /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg
+[0.697s] copying camara_pkg/__init__.py -> /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg
+[0.697s] copying camara_pkg/camera_gui_node.py -> /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg
+[0.697s] copying camara_pkg/camara_node.py -> /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg
+[0.697s] running install
+[0.701s] running install_lib
+[0.714s] creating /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg
+[0.714s] copying /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg/movemotors.py -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg
+[0.714s] copying /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg/guidos.py -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg
+[0.714s] copying /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg/teleop.py -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg
+[0.714s] copying /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg/__init__.py -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg
+[0.714s] copying /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg/camera_gui_node.py -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg
+[0.714s] copying /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build/lib/camara_pkg/camara_node.py -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg
+[0.714s] byte-compiling /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg/movemotors.py to movemotors.cpython-312.pyc
+[0.715s] byte-compiling /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg/guidos.py to guidos.cpython-312.pyc
+[0.717s] byte-compiling /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg/teleop.py to teleop.cpython-312.pyc
+[0.719s] byte-compiling /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg/__init__.py to __init__.cpython-312.pyc
+[0.719s] byte-compiling /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg/camera_gui_node.py to camera_gui_node.cpython-312.pyc
+[0.719s] byte-compiling /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg/camara_node.py to camara_node.cpython-312.pyc
+[0.719s] running install_data
+[0.719s] creating /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/ament_index
+[0.720s] creating /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/ament_index/resource_index
+[0.720s] creating /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/ament_index/resource_index/packages
+[0.720s] copying resource/camara_pkg -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/ament_index/resource_index/packages
+[0.720s] copying package.xml -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg
+[0.720s] creating /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/launch
+[0.720s] copying launch/micro.launch.py -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/launch
+[0.720s] copying launch/display.launch -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/launch
+[0.720s] copying launch/gazebo.launch -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/launch
+[0.720s] creating /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/urdf
+[0.720s] copying urdf/turtlesimm.urdf -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/urdf
+[0.720s] creating /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/meshes
+[0.720s] copying meshes/Motorizq_Link.STL -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/meshes
+[0.720s] copying meshes/base_link.STL -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/meshes
+[0.721s] copying meshes/Motorder_Link.STL -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/meshes
+[0.721s] creating /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/config
+[0.722s] copying config/joint_names_turtlesimm.yaml -> /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/config
+[0.722s] running install_egg_info
+[0.734s] Copying ../../build/camara_pkg/camara_pkg.egg-info to /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara_pkg-0.0.0-py3.12.egg-info
+[0.734s] running install_scripts
+[0.812s] Installing camara_node script to /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+[0.812s] Installing camera_gui_node script to /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+[0.812s] Installing guidos script to /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+[0.812s] Installing movemotors script to /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+[0.812s] Installing salvatore_mqtt_bridge script to /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+[0.812s] Installing teleop script to /home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+[0.812s] writing list of installed files to '/home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/install.log'
+[0.832s] Invoked command in '/home/camilo/J2D2/Microproyecto_ws/src/camara_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/camilo/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camara_pkg build --build-base /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/build install --record /home/camilo/J2D2/Microproyecto_ws/build/camara_pkg/install.log --single-version-externally-managed install_data

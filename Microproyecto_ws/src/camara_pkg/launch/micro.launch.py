@@ -50,7 +50,7 @@ def generate_launch_description():
         parameters=[{
             'serial_port': '/dev/ttyUSB0',
             'baud_rate': 115200,
-            'max_speed': 1.0,
+            'max_speed': 0.4,
             'deadzone': 0.1
         }]
     )

@@ -1,0 +1,34 @@
+[1.430s] Invoking command in '/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/camara_pkg build --build-base /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/build install --record /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/install.log --single-version-externally-managed install_data
+[1.826s] running egg_info
+[1.854s] writing ../build/camara_pkg/camara_pkg.egg-info/PKG-INFO
+[1.854s] writing dependency_links to ../build/camara_pkg/camara_pkg.egg-info/dependency_links.txt
+[1.855s] writing entry points to ../build/camara_pkg/camara_pkg.egg-info/entry_points.txt
+[1.855s] writing requirements to ../build/camara_pkg/camara_pkg.egg-info/requires.txt
+[1.855s] writing top-level names to ../build/camara_pkg/camara_pkg.egg-info/top_level.txt
+[1.909s] reading manifest file '../build/camara_pkg/camara_pkg.egg-info/SOURCES.txt'
+[1.911s] writing manifest file '../build/camara_pkg/camara_pkg.egg-info/SOURCES.txt'
+[1.911s] running build
+[1.911s] running build_py
+[1.911s] copying camara_pkg/guidos.py -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/build/lib/camara_pkg
+[1.912s] copying camara_pkg/mqtt_bridge_node.py -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/build/lib/camara_pkg
+[1.912s] running install
+[1.920s] running install_lib
+[1.947s] copying /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/build/lib/camara_pkg/guidos.py -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/python3.12/site-packages/camara_pkg
+[1.947s] copying /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/build/lib/camara_pkg/teleop.py -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/python3.12/site-packages/camara_pkg
+[1.947s] copying /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/build/lib/camara_pkg/mqtt_bridge_node.py -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/python3.12/site-packages/camara_pkg
+[1.948s] byte-compiling /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/python3.12/site-packages/camara_pkg/guidos.py to guidos.cpython-312.pyc
+[1.953s] byte-compiling /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/python3.12/site-packages/camara_pkg/teleop.py to teleop.cpython-312.pyc
+[1.955s] byte-compiling /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/python3.12/site-packages/camara_pkg/mqtt_bridge_node.py to mqtt_bridge_node.cpython-312.pyc
+[1.957s] running install_data
+[1.957s] running install_egg_info
+[1.991s] Copying ../build/camara_pkg/camara_pkg.egg-info to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/python3.12/site-packages/camara_pkg-1.0.0-py3.12.egg-info
+[1.993s] running install_scripts
+[2.197s] Installing camara_node script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[2.198s] Installing camera_gui_node script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[2.198s] Installing guidos script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[2.198s] Installing movemotors script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[2.198s] Installing mqtt_bridge_node script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[2.199s] Installing salvatore_mqtt_bridge script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[2.199s] Installing teleop script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/camara_pkg
+[2.199s] writing list of installed files to '/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/install.log'
+[2.229s] Invoked command in '/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/install/camara_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/camara_pkg build --build-base /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/build install --record /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/build/camara_pkg/install.log --single-version-externally-managed install_data
