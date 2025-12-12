@@ -26,6 +26,8 @@ _colcon_prefix_chain_powershell_source_script "/opt/ros/jazzy\local_setup.ps1"
 _colcon_prefix_chain_powershell_source_script "/home/mich-amu/ros2_ws/install\local_setup.ps1"
 _colcon_prefix_chain_powershell_source_script "/home/mich-amu/lab_ws/install\local_setup.ps1"
 _colcon_prefix_chain_powershell_source_script "/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install\local_setup.ps1"
+_colcon_prefix_chain_powershell_source_script "/home/mich-amu/uaows/src/J2D2/install\local_setup.ps1"
+_colcon_prefix_chain_powershell_source_script "/home/mich-amu/uaows/src/install\local_setup.ps1"
 _colcon_prefix_chain_powershell_source_script "/home/mich-amu/uaows/install\local_setup.ps1"
 
 # source this prefix

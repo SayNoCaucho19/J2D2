@@ -1,0 +1,40 @@
+running develop
+running egg_info
+creating camara_pkg.egg-info
+writing camara_pkg.egg-info/PKG-INFO
+writing dependency_links to camara_pkg.egg-info/dependency_links.txt
+writing entry points to camara_pkg.egg-info/entry_points.txt
+writing requirements to camara_pkg.egg-info/requires.txt
+writing top-level names to camara_pkg.egg-info/top_level.txt
+writing manifest file 'camara_pkg.egg-info/SOURCES.txt'
+reading manifest file 'camara_pkg.egg-info/SOURCES.txt'
+writing manifest file 'camara_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/lib/python3.12/site-packages/camara-pkg.egg-link (link to .)
+Installing camara_node script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+Installing camera_gui_node script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+Installing guidos script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+Installing movemotors script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+Installing mqtt_bridge_node script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+Installing salvatore_mqtt_bridge script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+Installing teleop script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/lib/camara_pkg
+
+Installed /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg
+running symlink_data
+creating /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/ament_index
+creating /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/ament_index/resource_index
+creating /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg/resource/camara_pkg -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg/package.xml -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg
+creating /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/launch
+symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg/launch/micro.launch.py -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/launch
+symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg/launch/gazebo.launch -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/launch
+symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg/launch/display.launch -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/launch
+creating /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/urdf
+symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg/urdf/turtlesimm.urdf -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/urdf
+creating /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/meshes
+symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg/meshes/Motorizq_Link.STL -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/meshes
+symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg/meshes/base_link.STL -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/meshes
+symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg/meshes/Motorder_Link.STL -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/meshes
+creating /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/config
+symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/build/camara_pkg/config/joint_names_turtlesimm.yaml -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/install/camara_pkg/share/camara_pkg/config

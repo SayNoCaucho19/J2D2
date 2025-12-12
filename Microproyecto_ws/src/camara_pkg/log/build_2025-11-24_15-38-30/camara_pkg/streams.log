@@ -1,0 +1,33 @@
+[0.849s] Invoking command in '/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/build --no-deps symlink_data --force
+[1.208s] running develop
+[1.439s] running egg_info
+[1.462s] writing camara_pkg.egg-info/PKG-INFO
+[1.463s] writing dependency_links to camara_pkg.egg-info/dependency_links.txt
+[1.463s] writing entry points to camara_pkg.egg-info/entry_points.txt
+[1.463s] writing requirements to camara_pkg.egg-info/requires.txt
+[1.463s] writing top-level names to camara_pkg.egg-info/top_level.txt
+[1.511s] reading manifest file 'camara_pkg.egg-info/SOURCES.txt'
+[1.512s] writing manifest file 'camara_pkg.egg-info/SOURCES.txt'
+[1.537s] running build_ext
+[1.537s] Creating /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/lib/python3.12/site-packages/camara-pkg.egg-link (link to .)
+[1.537s] Installing camara_node script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/lib/camara_pkg
+[1.537s] Installing camera_gui_node script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/lib/camara_pkg
+[1.537s] Installing guidos script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/lib/camara_pkg
+[1.538s] Installing movemotors script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/lib/camara_pkg
+[1.538s] Installing mqtt_bridge_node script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/lib/camara_pkg
+[1.538s] Installing salvatore_mqtt_bridge script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/lib/camara_pkg
+[1.538s] Installing teleop script to /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/lib/camara_pkg
+[1.538s] 
+[1.538s] Installed /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg
+[1.538s] running symlink_data
+[1.538s] symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/resource/camara_pkg -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/share/ament_index/resource_index/packages
+[1.538s] symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/package.xml -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/share/camara_pkg
+[1.539s] symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/launch/micro.launch.py -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/share/camara_pkg/launch
+[1.539s] symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/launch/gazebo.launch -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/share/camara_pkg/launch
+[1.539s] symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/launch/display.launch -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/share/camara_pkg/launch
+[1.539s] symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/urdf/turtlesimm.urdf -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/share/camara_pkg/urdf
+[1.539s] symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/meshes/Motorizq_Link.STL -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/share/camara_pkg/meshes
+[1.539s] symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/meshes/base_link.STL -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/share/camara_pkg/meshes
+[1.539s] symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/meshes/Motorder_Link.STL -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/share/camara_pkg/meshes
+[1.539s] symbolically linking /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/config/joint_names_turtlesimm.yaml -> /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/share/camara_pkg/config
+[1.568s] Invoked command in '/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/install/camara_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mich-amu/uaows/src/J2D2/Microproyecto_ws/src/camara_pkg/build/camara_pkg/build --no-deps symlink_data --force

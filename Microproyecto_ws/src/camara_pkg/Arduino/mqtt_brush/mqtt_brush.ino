@@ -331,7 +331,7 @@ inline int floatToPulse(float value) {
 
 void applyMotorValues() {
   writeESC(ledChannelLeft, floatToPulse(leftMotorValue));   // ← CORREGIDO: usa canal
-  writeESC(ledChannelRight, floatToPulse(rightMotorValue)); // ← CORREGIDO: usa canal
+  writeESC(ledChannelRight, floatToPulse(-rightMotorValue)); // ← CORREGIDO: usa canal
 }
 
 // ← FUNCIÓN CORREGIDA: Ahora convierte microsegundos a duty cycle
